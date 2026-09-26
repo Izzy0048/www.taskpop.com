@@ -1,0 +1,6 @@
+{
+  "name": "TaskPop - SMM Micro-task Panel",
+  "description": "TikTok & SMM micro-task booster platform with Admin portal, instant task worker feeds, Palmpay payment activations, order management, and referral rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
